@@ -9,13 +9,14 @@ The primary goal of this repository is to achieve the **Codeforces Pupil** rank 
 
 ### 🔢 Array Basics
 - 1D and 2D arrays
-- Basic array operations:
+- Basic 1D array operations:
   - Minimum and maximum element search
   - Linear search
   - Insertion, deletion, and updation
   - Reverse and swap
   - Removing duplicates
   - Sum of array elements
+- [Basic 2D Array Operations](https://github.com/ahnaf1524/2D-array)
 - Built-in functions from `<array>` library
 
 ---
